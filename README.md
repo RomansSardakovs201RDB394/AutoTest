@@ -1,1 +1,1 @@
-Kods kas tika izmantots lai imitētu lieetotāja darbību iekš izstrādātas programmatūras
+Kods kas tika izmantots lai imitētu lietotāja darbību iekš izstrādātas programmatūras
